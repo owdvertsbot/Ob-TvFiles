@@ -8,7 +8,7 @@
 
     "scripts": {
 
-        "build": "cyclic/python",
+        "build": "python",
 
         "test": "echo \"No test specified\" && exit 1",
 
