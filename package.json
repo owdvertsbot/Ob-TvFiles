@@ -18,48 +18,7 @@
     },
     "homepage": "https://github.com/owdver/Ob-TvFiles#readme"
     },
-    "buildpacks": [
-        
-
-
-
-      "url": "heroku/python"
-
-    }
-
-  ],
-
-  "formation": {
-
-    "worker": {
-
-      "quantity": 1,
-
-      "size": "eco"
-
-    }
-
-  }
-    
-
-"buildpacks": [
-
-    {
-
-      "url": "heroku/python"
-
-    }
-
-  ],
-
-  "formation": {
-
-    "worker": {
-
-      "quantity": 1,
-
-      "size": "eco"
-
-    }
-
-  }
+    "buildpacks": {
+        "url": "cyclic/python"
+        }
+}
