@@ -8,7 +8,7 @@
 
     "scripts": {
 
-        "build": "tsc",
+        "build": "heroku/python",
 
         "test": "echo \"No test specified\" && exit 1",
 
