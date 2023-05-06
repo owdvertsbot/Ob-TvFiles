@@ -20,5 +20,5 @@
     },
     "buildpacks": {
         "url": "cyclic/python"
-        }
+        },
 }
