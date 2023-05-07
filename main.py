@@ -2,7 +2,9 @@ from bot import Bot
 
 Bot().run()
 
-SCRIPTNAME="main"
-SCRIPT="main.py"
+for i in range(999999999999999999999999999):
 
-echo "running SCRIPT nohup"
+    print('I never want to grow up!')
+
+
+
